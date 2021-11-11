@@ -1,0 +1,2 @@
+# beauty-react
+Beautiful App
